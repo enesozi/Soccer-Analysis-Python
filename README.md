@@ -23,4 +23,7 @@
 * **Lastly, add python and ipykernel spesific in the virtual environment to jupyter notebook**
     * python -m ipykernel install --user --name=ipyenv
 
-* **Now, when you run** <i>jupyter notebook</i> **command, you should see** <i>ipyenv</i> **kernel available**
+* Now, when you run **<i>jupyter notebook</i>** command, you should see **<i>ipyenv</i>** kernel available
+
+* **Installing required modules**
+	* You can simply run ***pip install -r requirements.txt***
