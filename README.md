@@ -20,7 +20,7 @@
 * **Install ipykernel in your virtual environment**
     * pip install ipykernel
 
-* **Lastly, add python and ipykernel spesific in the virtual environment to jupyter notebook**
+* **Lastly, add python and ipykernel specific in the virtual environment to jupyter notebook**
     * python -m ipykernel install --user --name=ipyenv
 
 * **Installing required modules**
